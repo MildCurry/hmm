@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/brendan/.config/wpg/wallpapers/needle-pipes-by-elijah-mcneal-3840×2160.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#3f253d",
+        "foreground": "#fff7ec",
+        "cursor": "#fff7ec"
+    },
+    "colors": {
+        "color0": "#3f253d",
+        "color1": "#B46250",
+        "color2": "#956961",
+        "color3": "#D7AD72",
+        "color4": "#AC8679",
+        "color5": "#B57684",
+        "color6": "#C7AA9B",
+        "color7": "#e1cbc2",
+        "color8": "#3f253d",
+        "color9": "#fa7457",
+        "color10": "#d17d6e",
+        "color11": "#ffe47e",
+        "color12": "#f2a48a",
+        "color13": "#fe86a0",
+        "color14": "#ffd5b2",
+        "color15": "#fff7ec"
+    }
+}
